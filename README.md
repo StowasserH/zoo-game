@@ -13,7 +13,7 @@ A simple zoo management game in Python, developed as a training project. The gam
 ## Installation
 
 Clone the repository:
-git clone <your-repository-url>
+git clone https://github.com/StowasserH/zoo-game.git
 
 ## How to Play
 
@@ -26,6 +26,13 @@ python main.py
 - Python 3.x
 - No external libraries required (standard Python libraries used).
 
+
+## Authors
+
+* **Harald Stowasser** - *Initial work* - [StowasserH](https://github.com/StowasserH)
+
+See also the list of [contributors](https://github.com/StowasserH/pylcars/contributors) who participated in this project.
+
 ## License
 
-This project is for educational purposes and is not intended for commercial use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
