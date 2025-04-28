@@ -13,13 +13,17 @@ A simple zoo management game in Python, developed as a training project. The gam
 ## Installation
 
 Clone the repository:
+```
 git clone https://github.com/StowasserH/zoo-game.git
+```
 
 ## How to Play
 
 1. Run the game with the following command:
 
+```
 python main.py
+```
 
 ## Requirements
 
