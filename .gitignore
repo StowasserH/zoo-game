@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.log
+*.cache
+*.bak
+
+# Editor-/IDE-Ordner
+*.pyc
+*.swp
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+
+# Umgebungsdateien
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Sonstiges
+*.swp
+*.tmp
+
+# Test-/Debug-Ausgaben
+coverage.xml
+*.cover
+htmlcov/
